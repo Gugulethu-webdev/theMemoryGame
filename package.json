@@ -1,0 +1,16 @@
+{
+  "name": "memorygame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Gugulethu-webdev.github.io/memorygame",
+  "dependencies": {
+    "gh-pages": "^2.2.0",
+    "jasmine": "^3.5.0"
+  }
+}
